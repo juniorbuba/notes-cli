@@ -1,5 +1,3 @@
-![image of note and cli](note.png)
-
 A small ```Nodejs``` application that allows the user take notes using the Commmand Line Interface.
 
 The only required external node modules needed are ```yargs``` and ```chalk```.
